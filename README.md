@@ -17,4 +17,5 @@
 <img src="https://user-images.githubusercontent.com/52377778/103460258-39603800-4d58-11eb-80c9-fb5eb60af130.PNG" width="800" height="500" />  
 
 ## Project GIF  
-https://user-images.githubusercontent.com/52377778/103460425-75e06380-4d59-11eb-9f21-8d7ba7737f38.gif
+![터틀봇](https://user-images.githubusercontent.com/52377778/103460458-a6c09880-4d59-11eb-879e-18587f697bae.gif)
+
