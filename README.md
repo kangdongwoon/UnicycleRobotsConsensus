@@ -14,6 +14,6 @@
 3. Turtlebot3
   
 ## System Architecture
-<img src="https://user-images.githubusercontent.com/52377778/86989541-962dcc00-c1d5-11ea-8c95-35a59bc03dde.PNG" width="800" height="500" />  
-    
+<img src="https://user-images.githubusercontent.com/52377778/103460258-39603800-4d58-11eb-80c9-fb5eb60af130.PNG" width="800" height="500" />  
+
 ## Project GIF  
