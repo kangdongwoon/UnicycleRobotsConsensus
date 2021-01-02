@@ -13,6 +13,9 @@
 2. Gazebo
 3. Turtlebot3
   
+## Reference Paper  
+Formation stabilization of unicycle-type mobile robots via consensus algorithm, 2010, 김홍근, 심형보, 백주훈 prof.
+  
 ## System Architecture
 <img src="https://user-images.githubusercontent.com/52377778/103460258-39603800-4d58-11eb-80c9-fb5eb60af130.PNG" width="800" height="500" />  
 
