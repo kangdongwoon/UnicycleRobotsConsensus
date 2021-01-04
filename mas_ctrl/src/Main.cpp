@@ -1,4 +1,6 @@
-//EveryTime : rosparam set use_sim_time true
+//For The Gazebo Simulation//
+
+//For the Time Sync ->> rosparam set use_sim_time true
 
 #include "ros/ros.h"
 #include "std_msgs/String.h"
