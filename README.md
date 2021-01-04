@@ -31,9 +31,9 @@ Formation stabilization of unicycle-type mobile robots via consensus algorithm, 
 <img src="https://user-images.githubusercontent.com/52377778/103460258-39603800-4d58-11eb-80c9-fb5eb60af130.PNG" width="800" height="500" />  
 
 ## Project GIF  
-In Gazebo  
+In Gazebo (4x)  
 ![Ingazebo](https://user-images.githubusercontent.com/52377778/103500191-ff914d80-4e8d-11eb-9cd5-d6bef15d9b70.gif)  
-In Realworld  
+In Realworld (4x)  
 ![터틀봇](https://user-images.githubusercontent.com/52377778/103460458-a6c09880-4d59-11eb-879e-18587f697bae.gif)  
 
 ## Developing Tips
