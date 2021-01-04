@@ -33,3 +33,7 @@ Formation stabilization of unicycle-type mobile robots via consensus algorithm, 
 ## Project GIF  
 ![터틀봇](https://user-images.githubusercontent.com/52377778/103460458-a6c09880-4d59-11eb-879e-18587f697bae.gif)
 
+## Developing Tips
+1. Gazebo 환경과 ROS 환경의 Time Sync 필요!
+2. AR_Marker를 사용할 때, Marker는 흰색 바탕이 적당히 있어야 인식이 됨! 
+
