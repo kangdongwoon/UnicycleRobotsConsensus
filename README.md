@@ -12,7 +12,18 @@
 1. ROS
 2. Gazebo
 3. Turtlebot3
-  
+
+## ROS PACKAGES
+1. turtlebot3 [kinetic-devel]
+2. turtlebot3_msgs [master]
+3. turtlebot3_simulations [master]
+ - http://wiki.ros.org/Robots/TurtleBot
+4. usb_cam [develop]
+ - https://wiki.ros.org/usb_cam
+5. ar_track_alvar [kinetic-devel]
+ - http://wiki.ros.org/ar_track_alvar
+6. mas_ctrl {MY OWN}
+
 ## Reference Paper  
 Formation stabilization of unicycle-type mobile robots via consensus algorithm, 2010, 김홍근, 심형보, 백주훈 prof.
   
